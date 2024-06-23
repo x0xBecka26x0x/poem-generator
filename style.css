@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    color: rgb(126, 9, 235);
+    color: rgb(76, 4, 143);
 }
 
 .container {
@@ -23,7 +23,7 @@ h1 {
     font-weight: 800;
     font-size: 36px;
     line-height: 1.5;
-    color: rgb(126, 9, 235);
+    color: rgb(76, 4, 143);
 }
 
 form {
@@ -61,11 +61,14 @@ form {
     background-color: white;
     padding: 20px;
     line-height: 2;
-    border: 1px solid rgb(126, 9, 235);
+    border: 1px solid rgb(76, 4, 143);
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.3);
     border-radius: 15px;
 }
 
+.poem strong {
+    color: rgb(253, 4, 178);
+}
 footer {
     text-align: center;
     font-size: 22px;
