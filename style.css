@@ -12,7 +12,6 @@ a {
     max-width: 800px;
     background-color: rgb(253, 26, 196);
     border-radius: 5px;
-    border: .05px solid rgb(253, 26, 196);
 }
 
 header {
